@@ -1,0 +1,6 @@
+[submodule "pkgbuild_project_one"]
+	path = pkgbuild_project_one
+	url = https://github.com/thaewrapt/pkgbuild_project_one
+[submodule "pkgbuild_project_two"]
+	path = pkgbuild_project_two
+	url = https://github.com/thaewrapt/pkgbuild_project_two
